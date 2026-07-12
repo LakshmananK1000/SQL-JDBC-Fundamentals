@@ -1,0 +1,4 @@
+CREATE TABLE song (
+     title varchar(20),
+     artist varchar(20)
+);
